@@ -1,0 +1,17 @@
+
+body{
+
+    background-image: linear-gradient(to top, #fad0c4 0%, #ffd1ff 100%);
+}
+
+.col-md-6{
+
+    background-color: pink !important;
+    margin: 30px !important;
+    border-radius: 10px !important;
+}
+
+img{
+    width: 80%;
+    border-radius: 5px;
+}
