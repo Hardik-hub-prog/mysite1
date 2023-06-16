@@ -1,0 +1,48 @@
+
+img{
+
+    border-radius: 10px;
+   
+   
+}
+
+p{
+    font-weight: 20px;
+    font-size: large;
+    text-align: center;
+}
+
+.col-md-3{
+
+    margin: 20px;
+}
+
+#navbar{
+
+    background-color: black;
+    color: white;
+    padding: 10px !important;
+}
+
+ul{
+    text-align: center;
+    list-style: none;
+   
+}
+
+li{
+    display: inline;
+    padding-left: 20px;
+    
+}
+
+#title{
+
+    font-size: 25px !important;
+}
+#footer{
+
+    background-color: brown;
+ 
+    padding: 20px;
+}
