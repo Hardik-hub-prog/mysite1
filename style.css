@@ -1,0 +1,33 @@
+
+ body{
+    background-image: linear-gradient(to top, #fdcbf1 0%, #fdcbf1 1%, #e6dee9 100%);
+ }
+
+ .col-md-5{
+
+        background-color: white;
+        margin: 150px !important;
+ }
+
+ input{
+
+    border: 2px solid black !important;
+    display: inline !important;
+    width: 75% !important;
+ }
+
+ button{
+    margin-left: 10px !important;
+ }
+
+ li{
+
+     display: inline;
+     width:70px;
+     margin: 10px;
+ }
+
+ i{
+   margin: 10px;
+   color:red
+ }
